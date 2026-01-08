@@ -1,0 +1,25 @@
+site_name: APOLLO Docs
+site_description: Hankyong National Univ. APOLLO — Team Documentation
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+nav:
+  - Home: index.md
+  - Team: team.md
+  - Electronics: electronics.md
+  - Perception: perception.md
+  - Planning: planning.md
+  - Modeling (CATIA): modeling.md
+  - Fabrication: fabrication.md
+  - Sponsor: sponsor.md
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/hknu_apollo/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ted9828
